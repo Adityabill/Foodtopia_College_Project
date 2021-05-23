@@ -10,7 +10,7 @@ Steps to install:
 2) After downloading, go to the directory in which Xampp is downloaded. And then, copy the "Foodtopia_PHP" folder of the repository and paste in the "htdocs" folder. And copy the 
 "foodtopia" folder located in the "Database" folder in the repository in "mysql/data" folder.
 3) Now, open the Xampp interface in Administrator Mode and click on the Config button of MySQL and then on "my.ini" option. "my.ini" file opens in notepad. 
-Go to line 20 (Can be some other line also) and change the port to 3308, like this:
+Go to line 20 (Can be some other line also) and change the port to 8086, like this:
 
 "#password = your_password
 
