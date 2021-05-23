@@ -19,7 +19,7 @@ port = 8086
 
 …"
 
-Also, change the port to 3308 on line 28 of my.ini file, like this:
+Also, change the port to 8086 on line 28 of my.ini file, like this:
 
 "# The MySQL server
 
