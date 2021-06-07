@@ -84,7 +84,7 @@ if(isset($_POST['submit'])){
                  <label class="form-label-text form-label-alignment label-spacing-form">Registration No.: 
                  <input class="text-box-form text-box-text" type="text" placeholder="Ex. RA1911003010376" name="reg_no" required></label><br>
 
-                 <label class="form-label-text form-label-alignment label-spacing-form">Email ID(Only SRMIST mail ID): 
+                 <label class="form-label-text form-label-alignment label-spacing-form">Email ID(Only SRMIST mail ID(Ex. something@srmist.edu.in)): 
                  <input class="text-box-form text-box-text" type="email" placeholder="Ex. xyz@srmist.edu.in" pattern="^[a-zA-Z0-9]+@srmist\.edu\.in$" name="email" required> </label><br>
 
                  <label class="form-label-text form-label-alignment label-spacing-form">Phone No.: 
