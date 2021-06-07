@@ -293,6 +293,8 @@ function total_price(){
             <input type="button" value="View total price" class="btn" onclick="total_price()">
             <input class="btn" type="submit" name="submit" value="Place Order">
             </div>
+	    
+	    <div><p><strong>Note: Once order is made cannot be cancelled.</strong></p></div>
         </form>
 
         <p><?php mysqli_error($conn); ?></p>
